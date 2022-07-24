@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+
+
+
+
 ```yaml 
 Name: Halit YILMAZ
 located_in: Helsingborg, Sweden
@@ -44,7 +48,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"] *
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>
                    
           
-![Snake animation](https://github.com/Finch46/Finch46/blob/output/github-contribution-grid-snake.svg)
+![Yılan animasyonu]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
 
 
 
