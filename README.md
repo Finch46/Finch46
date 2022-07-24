@@ -39,7 +39,7 @@ currently_learning: ["Docker, Kubernetes and React Native"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"] * 
 ```
 
-<h2> 🚀  Kullandığım ve Öğrendiğim Bazı Araçlar</h2> 
+<h2> 🚀  Some Tools I Have Used and Learned</h2> 
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="vscode" width="45" height="45"/> 
