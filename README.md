@@ -3,11 +3,17 @@
 </p>
 
 
+<img src="https://github.com/Necmttn/Necmttn/blob/master/preview.gif" width="550" />
+</p>
+
+
+
+
 
 
 
 ```yaml 
-Name: Halit YILMAZ
+name: Halit YILMAZ
 located_in: Helsingborg, Sweden
 current_job: I’m currently learning
 education:
