@@ -3,7 +3,7 @@
 </p>
 
 
-<img src="https://github.com/Necmttn/Necmttn/blob/master/preview.gif" width="550" />
+<img src="https://camo.githubusercontent.com/d62a4bc4d1293389e3d3181fb2f5c30c84b7a3be6c53cc82f3f9c0de559bef19/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270" width="500" />
 </p>
 
 
