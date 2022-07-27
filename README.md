@@ -6,8 +6,18 @@
 <img src="https://camo.githubusercontent.com/d62a4bc4d1293389e3d3181fb2f5c30c84b7a3be6c53cc82f3f9c0de559bef19/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270" width="500" />
 </p>
 
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
+<br />
+
+
+[instagram]: https://www.instagram.com/notusingfornow
+[linkedin]: https://www.linkedin.com/in/hltylmz/
+[gmail]: mailto:halityilmazofficial@gmail.com
+<br />
 
 
 
