@@ -14,7 +14,7 @@
 <br />
 
 
-[instagram]: https://www.instagram.com/notusingfornow
+[instagram]: https://www.instagram.com/notusingfornow03030303
 [linkedin]: https://www.linkedin.com/in/hltylmz/
 [gmail]: mailto:halityilmazofficial@gmail.com
 <br />
