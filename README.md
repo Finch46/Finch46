@@ -59,7 +59,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"] *
                        
                            
           
-![Yılan animasyonu]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+![Yılan animasyonu]( https://github.com/Finch4/Finch46/blob/output/github-contribution-grid-snake.svg )
 
 
 
