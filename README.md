@@ -2,7 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
+
+<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://camo.githubusercontent.com/d62a4bc4d1293389e3d3181fb2f5c30c84b7a3be6c53cc82f3f9c0de559bef19/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270)" width="500" height="320" />
+
+
+
+
+
+
+
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://img.icons8.com/3d-fluency/452/3d-fluency-instagram-logo.png" />][instagram]
