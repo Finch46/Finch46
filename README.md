@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
-<br />
-<br />
 
 
 <p align="center">
@@ -85,8 +80,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"] *
   
   
    
-          
-![Snake animation](https://github.com/Finch46/Finch46/blob/output/github-contribution-grid-snake.svg)
+         
 
 
 
