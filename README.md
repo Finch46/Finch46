@@ -1,10 +1,3 @@
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Let's Connect!💬&animation=fadeIn&type=waving&color=gradient&height=300" width="300"/>
-</p>
-
 [<img align="left" alt="linkedin | LinkedIn" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="50" width="50" src="https://img.icons8.com/3d-fluency/452/3d-fluency-instagram-logo.png" />][instagram]
 [<img align="left" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
