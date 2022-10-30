@@ -72,7 +72,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"] *
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45"/>
           
                        
-  ![Snake animation](https://github.com/Finch46/Finch46/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
    
          
