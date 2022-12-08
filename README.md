@@ -18,6 +18,9 @@
 
 <img align="up" alt="GIF" src="https://media.tenor.com/ha3nZP8CtNAAAAAM/itadori-yuji-kokusen-jujutsu-kaisen.gif" width="500" height="250" />
 
+<img align="up" alt="GIF" src="https://media.tenor.com/wbrWIlHcoSoAAAAM/computer-rage.gif" width="500" height="250" />
+
+<img align="up" alt="GIF" src="https://media.tenor.com/ZRQtbfMjbLYAAAAM/skeleton-typing.gif" width="500" height="250" />
 
 <br />
 <br />
