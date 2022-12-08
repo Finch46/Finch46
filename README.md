@@ -17,7 +17,7 @@
 <br />
 
 <img align="up" alt="GIF" src="https://media.tenor.com/w0iguqKDZroAAAAM/ghost-rider-marvel.gif" width="500" height="250" />
-<img align="up" alt="GIF" src="https://media.tenor.com/w0iguqKDZroAAAAM/ghost-rider-marvel.gif" width="500" height="250" />
+
 
 <br />
 <br />
